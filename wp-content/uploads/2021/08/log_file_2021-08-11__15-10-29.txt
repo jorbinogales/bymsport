@@ -1,0 +1,53 @@
+
+---Downloaded files---
+The import files for: The League Demo Import were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://localhost/wordpress/bymSport
+Data file = C:\laragon\www\wordpress\bymSport/wp-content/themes/the-league/import/theleague.xml
+Widget file = C:\laragon\www\wordpress\bymSport/wp-content/themes/the-league/import/theleague.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Homepage Widget Area : 
+
+The League: Home Cat List Widget - Soccer - Imported
+The League: Ad Widget - No Title - Imported
+The League: Tag Feat Widget - Baseball - Imported
+The League: Ad Widget - No Title - Imported
+
+Homepage Sidebar Widget Area : 
+
+The League: Ad Widget - No Title - Imported
+The League: Sidebar Tabber Widget - No Title - Imported
+The League: Contributors Widget - Contributors - Imported
+
+Default Sidebar Widget Area : 
+
+The League: Ad Widget - No Title - Imported
+The League: Sidebar Tabber Widget - No Title - Imported
+
+Post/Page Sidebar Widget Area : 
+
+The League: Ad Widget - No Title - Imported
+The League: Tag Feat Widget - Must See - Imported
+
+WooCommerce Sidebar Widget Area : 
+
+woocommerce_widget_cart - Cart - Site does not support widget
+woocommerce_product_categories - Categories - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_top_rated_products - Top Rated Products - Site does not support widget
+
+SportsPress Sidebar Widget Area : 
+
+The League: Ad Widget - No Title - Imported
+sportspress-event-blocks - Last Game - Site does not support widget
+sportspress-league-table - Standings - Site does not support widget
+
+
+
+---pt-ocdi/after_import---
+
